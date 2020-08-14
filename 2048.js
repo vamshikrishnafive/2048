@@ -118,6 +118,7 @@ function drawAllCells() {
         }
     }
 }
+//comment 
 
 //when the new cell generated 
 function pasteNewCell() {
